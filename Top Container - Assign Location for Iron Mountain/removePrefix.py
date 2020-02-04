@@ -14,10 +14,7 @@ import importlib
 import pandas as pd
 import numpy as np
 
-from asnake.aspace import ASpace
-from asnake.client import ASnakeClient
-sys.path.append(os.path.relpath('scripts/'))
-from functions import *
+
 import secrets
 
 
